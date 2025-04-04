@@ -1,4 +1,3 @@
-
 from tkinter.dialog import DIALOG_ICON
 from typing import Dict
 from keras.models import load_model
